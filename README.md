@@ -1,2 +1,2 @@
 # testingazuredevops
-test new build trigger on variables
+test new build trigger
